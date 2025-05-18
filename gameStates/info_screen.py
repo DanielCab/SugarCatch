@@ -42,11 +42,9 @@ def draw_screen(surface):
         info_text = [
             "Welcome to SugarCatch",
             "The game consist of different obtainable foods",
-            "that impact your health, score and speed!.",
+            "that impact your health, score and speed!",
             " ",
             "Move with A + D",
-            "Group Members:",
-            "Daniel Cabrices, Justine Ellis, AJ Durga, Ernest Jack",
             "Made as part of ITEC160 Final Project CRN 24304"
         ]
         y_offset = config.SCREEN_HEIGHT // 2 - 50
